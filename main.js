@@ -1,5 +1,4 @@
 const hamburgerIcon = document.querySelector('.header-right > a');
-hamburgerIcon.classList.add('hamburger-icon');
 
 const hamburgerMenu = document.querySelector('.hamburger-menu');
 
